@@ -1,7 +1,7 @@
 # Hi, I'm Vansh 👋
 
-🚀 Aspiring Developer | Future Tech Entrepreneur  
-📍 India
+🚀 Aspiring Developer | Future Tech Entrepreneur 
+📍 India                                                                                                                                              
 💡 Currently learning Python, Data Analysis, Cybersecurity  
 
 ---
