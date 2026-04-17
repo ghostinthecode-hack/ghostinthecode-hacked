@@ -19,6 +19,13 @@
 
 ---
 
+---
+
+## 🧩 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostinthecode-hack&layout=compact&theme=tokyonight)
+
+---
+
 ## 🚀 Projects
 - 🔹 Project 1 (coming soon)
 - 🔹 Project 2 (coming soon)
