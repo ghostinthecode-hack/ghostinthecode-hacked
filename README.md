@@ -12,9 +12,10 @@
 
 # 💫 About Me
 
+📍 India 
 📊 Passionate about Data Analytics and extracting meaningful insights from data.  
 🐍 Skilled in Python programming and continuously improving analytical abilities.  
-📈 Interested in business intelligence, visualization, automation, and real-world problem solving.  
+🛡️ Interested in Cybersecurity, Automation & SaaS Systems
 🚀 Currently building projects to strengthen technical and practical experience.
 
 ---
@@ -56,9 +57,7 @@
 ---
 
 # 📈 GitHub Analytics
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostinthecode-hack&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostinthecode-hack&layout=compact&theme=tokyonight)
 
 ---
 
@@ -80,8 +79,6 @@
 
 <div align="center">
 
-### 📊 “Data is valuable only when transformed into insight.”
+### 📊 “📊 Turning raw data into meaningful insights and actionable decisions.”
 
 </div>
-## 📫 Connect with Me
-- Email: ghostinthemalware@gmail.com
