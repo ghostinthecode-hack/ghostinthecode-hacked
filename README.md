@@ -12,12 +12,10 @@
 
 # 💫 About Me
 
-📍 India 
+📍 India                                              
 📊 Passionate about Data Analytics and extracting meaningful insights from data.  
-
 🐍 Skilled in Python programming and continuously improving analytical abilities.  
-🛡️ Interested in Cybersecurity, Automation & SaaS Systems
-
+🛡️ Interested in Cybersecurity, Automation & SaaS Systems                                                                  
 🚀 Currently building projects to strengthen technical and practical experience.
 
 ---
