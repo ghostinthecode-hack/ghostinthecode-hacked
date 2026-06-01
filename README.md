@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Vansh
+# 👋 Hey, I'm Veer
 
 ### 📊 Aspiring Data Analyst | Python Developer | Problem Solver
 
