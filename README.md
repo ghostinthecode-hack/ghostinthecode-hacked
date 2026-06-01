@@ -82,6 +82,6 @@
 
 <div align="center">
 
-### 📊 “📊 Turning raw data into meaningful insights and actionable decisions.”
+### “📊 Turning raw data into meaningful insights and actionable decisions.”
 
 </div>
